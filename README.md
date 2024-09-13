@@ -2,7 +2,7 @@
 <p align="center">TIMNASA MD V1
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=900&size=30&duration=4000&pause=1000&random=false&width=435&lines=+MY+NAME+ IS+TIMNASA+MD+BOT+CREATED+BY+TIMNASA+BOY+SON+Fork+Me+Please" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=900&size=30&duration=4000&pause=1000&random=false&width=435&lines=+TIMNASA+WHATSAPP+BOT+CREATED+BY+TIMNASA+BOY+SON+Fork+Me+Please" alt="Typing SVG" /></a>
  </p>
  
  <a href="https://wa.me/message/J2ZL2GNK4GIUA1">
