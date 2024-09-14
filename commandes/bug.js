@@ -77,7 +77,7 @@ let menuMsg = `
 │        *TIMNASA MD *
 ╰───────➻⊷⊷➻────────❍ 
 
-> ©yesser projects
+> ©timnasa projects
 
  `;
 
