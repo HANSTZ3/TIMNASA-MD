@@ -15,7 +15,7 @@ TIMNASA MD</b>, simple powerful bot </p>
 </p>
   <p align="center">
 <a href="https://github.com/yassin994?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/HANSTZ3?label=Followers&style=social"></a>
-<a href="https://github.com/HANSTZ3/HANS-MD/stargazers/"><img title="STARS" src="https://img.shields.io/github/stars/yassin994/YESSER-MD?&style=social"></a>
+<a href="https://github.com/HANSTZ3/HANS-MD/stargazers/"><img title="STARS" src="https://img.shields.io/github/stars/HANSTZ3/TIMNASA-MD?&style=social"></a>
 <a href="https://github.com/HANSTZ3/HANS-MD/network/members"><img title="Forks" src="https://img.shields.io/github/forks/HANSTZ3/HANS-MD?style=social"></a>
 <a href="https://github.com/HANSTZ3/HANS-MD/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/HANSTZ3/HANS-MD?label=Watching&style=social"></a>
 
@@ -61,7 +61,7 @@ sᴛᴀʀ 🌟 ᴍʏ ʀᴇᴘᴏ ɪғ ʏᴏᴜ ʟɪᴋᴇ ᴛʜɪs ʙᴏᴛ ®�
 
 
  
-<a href="https://hansaganicoder-b959e1c1d915.herokuapp.com"><img title="Tap Here Open Session Site" src="https://img.shields.io/badge/𝕊𝕀𝕋𝔼 𝔽𝕆ℝ ℙ𝔸𝕀ℝ-h?color=black&style=for-the-badge&logo=msi" width="220" height="38.45"/></a></p>
+<a href="https://hassanmanenocoder-ca99db586afe.herokuapp.com"><img title="Tap Here Open Session Site" src="https://img.shields.io/badge/𝕊𝕀𝕋𝔼 𝔽𝕆ℝ ℙ𝔸𝕀ℝ-h?color=black&style=for-the-badge&logo=msi" width="220" height="38.45"/></a></p>
 
 
 ## 𝟛.𝕋ℍ𝕀ℝ𝔻 𝕊𝕋𝔼ℙ 
