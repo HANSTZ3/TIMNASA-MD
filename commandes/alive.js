@@ -43,7 +43,7 @@ const date = moment().format('DD/MM/YYYY');
  ${message}
  
  
- *HANS*`
+ *TIMNASA😎_MD-WABOT*`
 
  if (lien.match(/\.(mp4|gif)$/i)) {
     try {
@@ -88,7 +88,7 @@ else {
     
 await addOrUpdateDataInAlive(texte , tlien)
 
-repondre(' FVCK YOU IF YOU DONT FORK THIS BOT. ')
+repondre(' Hello👋 ,*I am Timnasa Md😎* _*Am Alive ALWAYS Just Like You😊*_ *🏹IM BORN TO WIN🏹* _ENJOY LIFE🤗_. ')
 
 }
     });

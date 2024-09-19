@@ -18,14 +18,14 @@ async function uploadToTelegraph(Path) {
       const form = new FormData();
       form.append("file", fs.createReadStream(Path));
 
-      const { data } = await axios.post("https://img.doerig.dev/upload", form, {
+      const { data } = await axios.post("https://telegra.ph/upload", form, {
           headers: {
               ...form.getHeaders(),
           },
       });
 
       if (data && data[0] && data[0].src) {
-          return "https://img.doerig.dev" + data[0].src;
+          return "https://telegra.ph" + data[0].src;
       } else {
           throw new Error("Erreur lors de la récupération du lien de la vidéo");
       }
@@ -70,7 +70,7 @@ const alea = (ext) => {
     }
 
     sticker = new Sticker(buffer, {
-      pack:"hans-Md" ,
+      pack:"Hacking-Md" ,
       author: nomAuteurMessage,
       type:
         arg.includes("crop") || arg.includes("c")
@@ -94,7 +94,7 @@ const alea = (ext) => {
     }
 
     sticker = new Sticker(buffer, {
-      pack:"hans-Md", // pack stick
+      pack:"HANS-Md", // pack stick
       author:  nomAuteurMessage, // name of the author of the stick
       type:
         arg.includes("-r") || arg.includes("-c")
@@ -236,7 +236,7 @@ zokou({ nomCom: "write", categorie: "Conversion", reaction: "👨🏿‍💻" },
   const config = {
     method: 'post',
     maxBodyLength: Infinity,
-    url: 'https://img.doerig.dev',
+    url: 'https://api.imgur.com/3/image',
     headers: headers,
     data: data
   };
@@ -252,7 +252,7 @@ zokou({ nomCom: "write", categorie: "Conversion", reaction: "👨🏿‍💻" },
     // Create the sticker
     const stickerMess = new Sticker(meme, {
       pack: nomAuteurMessage,
-      author: 'hans-Md',
+      author: 'YESSER-Md',
       type: StickerTypes.FULL,
       categories: ["🤩", "🎉"],
       id: "12345",

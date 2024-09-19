@@ -1,9 +1,10 @@
+
 const { zokou } = require('../framework/zokou');
 
-zokou({ nomCom: 'quote', categorie: 'Fun' }, async (dest, zk, commandeOptions) => {
+zokou({ nomCom: 'quote', categorie: 'Group' }, async (dest, zk, commandeOptions) => {
   const { ms, repondre, verifGroupe, arg } = commandeOptions;
   if (!verifGroupe) {
-    repondre('Commande réservée au groupe uniquement');
+    repondre('This Command works in groups only!!!');
     return;
   }
 
@@ -12,15 +13,13 @@ zokou({ nomCom: 'quote', categorie: 'Fun' }, async (dest, zk, commandeOptions) =
       fetch('https://animechan.xyz/api/random')
         .then((response) => response.json())
         .then(async (quote) => {
-          repondre(`╔══════════════════════════╗
-║   TIMNASA-MD               ║
-╚══════════════════════════╝
+          repondre(`*Timnasa md Quotes*
 
 🎬 Anime: ${quote.anime}
 👤 Character: ${quote.character}
 💬 Quote: ${quote.quote}
 
-Powered by TIMNASA-MD`);
+Powered by Timnasa md`);
         });
     } catch (e) {
       repondre('Erreur lors de la génération de la citation : ' + e.message);
@@ -32,15 +31,13 @@ Powered by TIMNASA-MD`);
       fetch('https://animechan.xyz/api/random/character?name=' + query)
         .then((response) => response.json())
         .then(async (quote) => {
-          repondre(`╔══════════════════════════╗
-║   TIMNASA-MD               ║
-╚══════════════════════════╝
+          repondre(`lucky md
 
 🎬 Anime: ${quote.anime}
 👤 Character: ${quote.character}
 💬 Quote: ${quote.quote}
 
-Powered by TIMNASA-MD`);
+Powered by *timnasa tech*`);
         });
     } catch (e) {
       repondre('Erreur lors de la génération de la citation : ' + e.message);
